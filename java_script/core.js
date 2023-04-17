@@ -60,6 +60,7 @@ document.querySelector('[data-restart]').addEventListener('click', function() {
     grids.forEach((item) => {
         item.setAttribute('value', '0');
         item.textContent = '';
+        counter = 0;
     });
     for (item in arr) arr[item] = '';
 });

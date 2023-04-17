@@ -1,2 +1,2 @@
 ﻿# tic-tac-toe-minigame
-long code but i wrote it in my own :|
+long code, ofc i wrote it in my own :|

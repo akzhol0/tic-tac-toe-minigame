@@ -63,4 +63,5 @@ document.querySelector('[data-restart]').addEventListener('click', function() {
         counter = 0;
     });
     for (item in arr) arr[item] = '';
+    res.textContent = `Winner: ?`;
 });
